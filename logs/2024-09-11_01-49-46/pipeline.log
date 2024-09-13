@@ -1,0 +1,9 @@
+2024-09-11 01:49:46,344 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_01-49-46\pipeline.log
+2024-09-11 01:49:46,404 - INFO - Connected to database: b2b_platform_db
+2024-09-11 01:49:46,561 - INFO - Connected to database: dimensional_model_db
+2024-09-11 01:49:46,562 - INFO - ETL pipeline started
+2024-09-11 01:49:46,592 - INFO - Data extracted from source database
+2024-09-11 01:49:46,632 - INFO - Data transformed into dimensional model
+2024-09-11 01:49:46,764 - ERROR - Error loading data: can't adapt type 'NAType'
+2024-09-11 01:49:46,771 - INFO - ETL pipeline completed
+2024-09-11 01:49:46,772 - INFO - Pipeline run completed, connections closed.

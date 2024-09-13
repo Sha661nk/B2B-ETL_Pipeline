@@ -1,0 +1,51 @@
+Lead_ID,First_Name,Last_Name,Email,Phone_Number,Company_Name,Lead_Source,Lead_Status,Engagement_Score,Contact_Date
+cae85310-6104-48ca-b115-034bbeb949e9,David,Stewart,harrisscott@example.com,001-735-302-0279x0883,Mann-Hughes,Social Media,New,49,2024-06-18
+bb6fef08-972f-4865-ab12-3bc080e8a4e5,Diana,Sanchez,pamelaramirez@example.com,804-354-7145x7401,Deleon-Burton,Website,New,17,2024-05-13
+dd42e1a3-0ef8-42a8-add6-a58d7a23234e,Felicia,Clements,marywallace@example.com,285.568.0146x8339,Hawkins Inc,Email Campaign,Converted,42,2024-07-03
+01b5161a-7c47-4ceb-883d-05191100f1c4,Pamela,Johns,slee@example.com,001-547-954-9760x9897,Hughes LLC,Social Media,Qualified,27,2024-02-27
+180e15c6-d282-4429-8dda-af2a971d31a3,Austin,Porter,deborahhogan@example.org,+1-494-537-6994x1464,Nash-Villarreal,Website,Qualified,67,2024-07-16
+4efa740d-8f05-4369-a1e6-2aceef17313b,Joseph,Williams,imaldonado@example.net,735.881.3827,Smith-Ryan,Email Campaign,Contacted,97,2024-02-10
+e23a6801-9d68-4c64-adf0-b834d94a192f,Karen,Keller,raymondtodd@example.net,001-925-629-6483x12299,Carter-Hooper,Referral,Contacted,95,2024-08-03
+34af404e-e71d-4208-bba9-9739a1b874d6,Matthew,Scott,swhite@example.com,001-247-831-4077x1631,Fields Group,Referral,Qualified,44,2024-09-06
+b1840a68-70d6-4ed6-ad64-4b54b5039b52,Gloria,Townsend,thompsonemily@example.net,(390)259-1189x26651,Bean-Thomas,Referral,New,91,2024-01-23
+44355ea5-6b8f-4849-a94e-0e53f18a5ce2,Jerry,Hughes,michael36@example.com,(508)751-7982x754,Ballard and Sons,Referral,Converted,10,2024-06-14
+aaeac1b7-169f-4bd2-b67c-67a2333738bb,Jessica,Beasley,nicole90@example.com,4264119938,Gonzalez-Browning,Website,Contacted,83,2024-06-06
+f3932d1c-05ca-4a10-a237-ce97c939ce05,Melinda,Barnett,hamptonjohnny@example.com,8786244738,Ferrell LLC,Email Campaign,New,50,2024-03-16
+555a4f0c-8dd7-491a-a387-d97db48d0df2,Kathryn,Fitzpatrick,phillip61@example.net,8466659672,"Swanson, Maldonado and Hill",Website,Contacted,10,2024-03-18
+6e7445b4-317a-4490-b81d-a311ee606376,Thomas,Daniels,robert59@example.net,(572)937-8821x0280,Sanders-Hernandez,Website,Converted,50,2024-08-18
+c7ab0a64-2855-4acb-988f-427f648bd2dd,Norman,Young,harriskevin@example.com,691-997-1656x4841,"Zuniga, Kelley and Cook",Email Campaign,Contacted,21,2024-06-04
+0f46dfff-7396-412d-a8c1-0ff8dbdb8c9b,Jessica,Lynn,jenkinsbarbara@example.net,(955)224-6659x4577,"Kane, Saunders and Bowman",Website,Contacted,2,2024-02-28
+30792d32-fe94-4817-bcf5-d4ce1c4b308d,Scott,Anderson,jimmystuart@example.net,(523)815-3878,Gutierrez-Kelly,Social Media,Converted,11,2024-06-15
+04d8b4dc-b475-49d8-8862-aa148b08a848,Andrew,Harper,porteryolanda@example.net,380-284-4444,Santos-Baker,Social Media,New,52,2024-04-20
+1fc31983-04cd-496b-a875-e7a3d5fa96bd,John,Gibbs,elizabeth17@example.org,+1-799-717-5820x48643,Key-Sexton,Email Campaign,Contacted,94,2024-05-19
+0bb4e3ee-2ca7-46ce-9421-6cad1f974c1a,Jessica,Erickson,fryegary@example.net,001-801-595-4484x2303,Ray Group,Website,Converted,71,2024-06-13
+fc787816-73a4-4af1-bac0-03e730d2bd08,Stephanie,Phillips,robert23@example.net,617-629-5894x03423,Andrade LLC,Referral,Contacted,15,2024-07-29
+5970b225-1fd8-4e31-b1b7-7c4b01a766f3,Kevin,Snyder,william67@example.com,879-291-8540x70839,Daniel-Sanchez,Email Campaign,New,95,2024-06-26
+5c066188-8e98-4ac1-a45f-0de616f07788,Brendan,Martin,snorman@example.org,+1-440-961-0530,Kemp-Patterson,Social Media,Qualified,75,2024-08-21
+51e9ec00-9938-4a0c-ac35-95714af2bbff,Jennifer,Reyes,skinnermatthew@example.com,580.603.5110,Griffin Inc,Social Media,Contacted,4,2024-05-06
+66d5847d-61a9-4809-979a-0ebdde1eceba,Mary,Baldwin,gerald24@example.com,992.853.6783x93807,"Wilkinson, Willis and Chavez",Email Campaign,New,63,2024-05-28
+a07e862e-d9e4-4520-b46c-348995753a5a,Vernon,Osborne,figueroasydney@example.com,370-965-2649x6287,"Hall, Wade and Horton",Website,Qualified,82,2024-06-15
+7532c7ca-00cc-416b-a9a2-eb1d3a2d3728,Matthew,Thompson,nicholas20@example.org,865.919.9078x2194,Meyer and Sons,Website,Converted,37,2024-03-08
+ff88b86b-f31e-46df-8ca3-bf38ef948b54,Mary,Park,whiterobert@example.com,411.319.9165,Beasley-Shaw,Referral,Contacted,25,2024-03-18
+87746fac-d0e7-4bec-a107-e8334905c6c1,Michele,Jones,jonescrystal@example.net,(326)286-5135x45166,Becker-Wallace,Referral,Converted,85,2024-05-07
+30036c69-0a4e-43f9-a49c-1a31f403a471,Stephanie,Wade,tonyajenkins@example.org,9055149010,Salazar Group,Email Campaign,Qualified,69,2024-04-27
+6debf830-2a91-4993-b7f9-5638cfc26843,Ryan,Logan,lawsonjennifer@example.org,(546)830-4428,Potter and Sons,Referral,New,64,2024-07-27
+40443de6-1a3e-4669-82b6-48184ef6c73e,Robin,Dennis,peter08@example.org,+1-733-256-9690x68962,"Torres, Perez and Smith",Referral,New,27,2024-07-22
+3d3064a9-79a9-4843-bb2b-3a4a129d5221,Michael,Peterson,terrencesmith@example.org,+1-322-810-7704x87421,"Kelly, Carpenter and Smith",Email Campaign,Contacted,14,2024-08-07
+f7411c4b-c5ad-49b7-b1de-c0c66d7835df,Joseph,Jennings,thomas25@example.org,518-960-5051,Soto-Hines,Referral,Converted,84,2024-08-27
+43dec7ec-2a19-4ef4-80d7-d15aca0f6105,Shirley,Castaneda,amanda59@example.com,(300)554-1904,Morrison LLC,Referral,New,38,2024-05-05
+fd318671-4361-4832-80fe-8598503bb2d6,Michael,Kane,brownsarah@example.com,+1-816-240-6756,"Smith, Owen and French",Social Media,New,46,2024-04-03
+a13d4caf-4983-47dd-beca-3460fb7c9423,Mark,Watkins,timothy48@example.org,+1-324-226-5497x351,"Harrington, Stark and Washington",Website,Converted,24,2024-04-11
+65756b20-3df3-47cc-98d1-87e090d818e5,Kevin,Garcia,nbrown@example.net,+1-975-564-0253,Owens-Banks,Social Media,Qualified,75,2024-01-18
+17c8713c-8679-4b2f-b2a3-646cd5718c22,Jennifer,Salazar,rodney63@example.com,732-852-0037x2319,Mahoney-Taylor,Website,Converted,54,2024-05-04
+a6531c83-7eed-4abd-917b-287bbc1e24fc,Evelyn,Simpson,dillonkim@example.org,462.778.0171x15775,"Delgado, Peterson and Navarro",Social Media,Contacted,44,2024-03-30
+592d57d1-d979-42a4-b0f7-b2ceeba85bf9,Timothy,Kelly,francisco31@example.org,+1-303-717-7625x21610,Newton-Hill,Website,New,13,2024-03-17
+2d625f21-d991-42e8-a707-8aa8cb524f42,William,Black,marylee@example.com,840.498.8298,"Lozano, Herrera and Sanders",Social Media,New,21,2024-08-31
+a8df1426-4ba0-46aa-99e0-efa6af158545,Christopher,Ramirez,nhaas@example.com,001-771-230-2103x528,Reed-Nguyen,Referral,Qualified,3,2024-05-03
+b7e7deaa-ea76-427c-add0-21e2ed8eb089,Jennifer,Kelly,bryan15@example.net,670-351-0419,Douglas-Mcintosh,Email Campaign,Converted,74,2024-05-27
+392caf32-b031-44a6-a8fd-d50fc6974e4c,Brian,Lewis,joshua05@example.com,(269)673-5030,Fisher and Sons,Website,Contacted,96,2024-01-31
+ad98649e-e6c1-4981-af8e-78011df71c70,Richard,Robinson,patrickblevins@example.org,8984077555,Jones PLC,Referral,Converted,100,2024-08-18
+36d159bd-6257-42fb-bcd4-4736c16642a3,Jennifer,Gaines,hoffmankaren@example.org,637.703.0566x360,"Avery, George and Adkins",Email Campaign,Qualified,73,2024-03-06
+354c3f0b-f532-4487-8d8e-1748eef96094,Zachary,Vaughn,xwall@example.com,(980)457-4364x381,Chapman-Haynes,Social Media,New,41,2024-07-03
+a7538ae8-82d8-441f-818a-c5d1a8eb5897,Kimberly,Townsend,curtissmith@example.org,693.920.2865,Thornton Inc,Social Media,Converted,78,2024-06-23
+93b97daf-29ed-42db-bd36-a51eb44389ef,Brian,Long,marcleblanc@example.com,2217679208,"Ruiz, Robinson and Sosa",Referral,Converted,10,2024-04-22

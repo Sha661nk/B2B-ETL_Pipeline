@@ -1,0 +1,18 @@
+2024-09-11 01:57:15,810 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_01-57-15\pipeline.log
+2024-09-11 01:57:15,869 - INFO - Connected to database: b2b_platform_db
+2024-09-11 01:57:15,906 - INFO - Connected to database: dimensional_model_db
+2024-09-11 01:57:15,906 - INFO - ETL pipeline started
+2024-09-11 01:57:15,943 - INFO - Data extracted from source database
+2024-09-11 01:57:16,000 - INFO - Fact orders after device merge: 
+   order_id  company_id  customer_id  product_id  date_id  quantity total_amount order_timestamp device_type                                         user_agent  device_id
+0         1          15           41          17        1        10      1143.30      2024-07-08     Desktop  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7...        1.0
+1         1          15           41          17        1        10      1143.30      2024-07-08     Desktop  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7...        1.0
+2        23          16            8          23        1        10      3897.80      2024-07-08      Mobile  Mozilla/5.0 (Linux; Android 10; SM-G970F) Appl...        2.0
+3         2          10           41          18        2         5       441.90      2024-04-04     Desktop  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7...        1.0
+4         2          10           41          18        2         5       441.90      2024-04-04     Desktop  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7...        1.0
+2024-09-11 01:57:16,002 - INFO - Data transformed into dimensional model
+2024-09-11 01:57:16,213 - ERROR - Error loading data: insert or update on table "fact_orders" violates foreign key constraint "fact_orders_device_id_fkey"
+DETAIL:  Key (device_id)=(1) is not present in table "dim_device".
+
+2024-09-11 01:57:16,213 - INFO - ETL pipeline completed
+2024-09-11 01:57:16,213 - INFO - Pipeline run completed, connections closed.

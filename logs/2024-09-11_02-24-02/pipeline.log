@@ -1,0 +1,11 @@
+2024-09-11 02:24:02,184 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_02-24-02\pipeline.log
+2024-09-11 02:24:02,232 - INFO - Connected to database: b2b_platform_db
+2024-09-11 02:24:02,275 - INFO - Connected to database: dimensional_model_db
+2024-09-11 02:24:02,276 - INFO - ETL pipeline started
+2024-09-11 02:24:02,291 - INFO - Data extracted from source database
+2024-09-11 02:24:02,464 - ERROR - Error loading data: column "order_date" of relation "dim_date" does not exist
+LINE 2:             INSERT INTO Dim_Date (order_date, date_id, date,...
+                                          ^
+
+2024-09-11 02:24:02,465 - INFO - ETL pipeline completed
+2024-09-11 02:24:02,465 - INFO - Pipeline run completed, connections closed.

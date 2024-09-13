@@ -1,0 +1,12 @@
+2024-09-11 01:42:57,904 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_01-42-57\pipeline.log
+2024-09-11 01:42:57,990 - INFO - Connected to database: b2b_platform_db
+2024-09-11 01:42:58,029 - INFO - Connected to database: dimensional_model_db
+2024-09-11 01:42:58,030 - INFO - ETL pipeline started
+2024-09-11 01:42:58,062 - INFO - Data extracted from source database
+2024-09-11 01:42:58,099 - INFO - Data transformed into dimensional model
+2024-09-11 01:42:58,256 - ERROR - Error loading data: column "device_type" of relation "fact_orders" does not exist
+LINE 2: ...date_id, quantity, total_amount, order_timestamp, device_typ...
+                                                             ^
+
+2024-09-11 01:42:58,256 - INFO - ETL pipeline completed
+2024-09-11 01:42:58,257 - INFO - Pipeline run completed, connections closed.

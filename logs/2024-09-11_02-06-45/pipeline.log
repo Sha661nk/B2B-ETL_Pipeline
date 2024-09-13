@@ -1,0 +1,20 @@
+2024-09-11 02:06:45,842 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_02-06-45\pipeline.log
+2024-09-11 02:06:45,882 - INFO - Connected to database: b2b_platform_db
+2024-09-11 02:06:45,920 - INFO - Connected to database: dimensional_model_db
+2024-09-11 02:06:45,920 - INFO - ETL pipeline started
+2024-09-11 02:06:45,934 - INFO - Data extracted from source database
+2024-09-11 02:06:45,963 - INFO - Fact orders after device merge: 
+   order_id  company_id  customer_id  product_id  date_id  quantity total_amount order_timestamp device_type                                         user_agent  device_id
+0         1          15           41          17        1        10      1143.30      2024-07-08     Desktop  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7...        1.0
+1        23          16            8          23        1        10      3897.80      2024-07-08      Mobile  Mozilla/5.0 (Linux; Android 10; SM-G970F) Appl...        2.0
+2         2          10           41          18        2         5       441.90      2024-04-04     Desktop  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7...        1.0
+3         3          14           23          15        3         4      1402.52      2023-10-23      Mobile  Mozilla/5.0 (Linux; Android 10; SM-G970F) Appl...        2.0
+4         4           3           37           4        4         9      1135.53      2024-05-09      Mobile  Mozilla/5.0 (Linux; Android 10; SM-G970F) Appl...        2.0
+2024-09-11 02:06:45,965 - INFO - Data transformed into dimensional model
+2024-09-11 02:06:46,113 - INFO - Dimension tables loaded and committed successfully.
+2024-09-11 02:06:46,118 - INFO - Fact_Orders table cleared using DELETE.
+2024-09-11 02:06:46,118 - INFO - Fact_Orders table is empty and ready for new data.
+2024-09-11 02:06:46,136 - ERROR - Error loading data: integer out of range
+
+2024-09-11 02:06:46,137 - INFO - ETL pipeline completed
+2024-09-11 02:06:46,137 - INFO - Pipeline run completed, connections closed.

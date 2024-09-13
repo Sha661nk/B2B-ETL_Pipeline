@@ -1,0 +1,9 @@
+2024-09-11 19:36:50,237 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_19-36-50\pipeline.log
+2024-09-11 19:36:50,313 - INFO - Connected to database: b2b_platform_db
+2024-09-11 19:36:50,348 - INFO - Connected to database: dimensional_model_db
+2024-09-11 19:36:50,349 - INFO - ETL pipeline started
+2024-09-11 19:36:50,417 - INFO - Data extracted from source database
+2024-09-11 19:36:50,463 - INFO - Data transformed into dimensional model
+2024-09-11 19:36:50,635 - INFO - Data loaded into target database
+2024-09-11 19:36:50,636 - INFO - ETL pipeline completed
+2024-09-11 19:36:50,636 - INFO - Pipeline run completed, connections closed.

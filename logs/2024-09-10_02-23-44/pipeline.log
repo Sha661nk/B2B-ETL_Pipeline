@@ -1,0 +1,8 @@
+2024-09-10 02:23:44,356 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-10_02-23-44\pipeline.log
+2024-09-10 02:23:44,405 - INFO - Connected to database: b2b_platform_db
+2024-09-10 02:23:44,434 - INFO - Connected to database: dimensional_model_db
+2024-09-10 02:23:44,435 - INFO - ETL pipeline started
+2024-09-10 02:23:44,446 - INFO - Data extracted from source database
+2024-09-10 02:23:44,456 - INFO - df_orders['order_date'] data type: datetime64[ns]
+2024-09-10 02:23:44,464 - INFO - dim_date['date'] data type: object
+2024-09-10 02:23:44,469 - INFO - fact_orders after merging with df_orders: (165, 11)

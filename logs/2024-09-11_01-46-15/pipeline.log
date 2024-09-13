@@ -1,0 +1,11 @@
+2024-09-11 01:46:15,139 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_01-46-15\pipeline.log
+2024-09-11 01:46:15,194 - INFO - Connected to database: b2b_platform_db
+2024-09-11 01:46:15,231 - INFO - Connected to database: dimensional_model_db
+2024-09-11 01:46:15,231 - INFO - ETL pipeline started
+2024-09-11 01:46:15,268 - INFO - Data extracted from source database
+2024-09-11 01:46:15,311 - INFO - Data transformed into dimensional model
+2024-09-11 01:46:15,480 - ERROR - Error loading data: insert or update on table "fact_orders" violates foreign key constraint "fact_orders_device_id_fkey"
+DETAIL:  Key (device_id)=(0) is not present in table "dim_device".
+
+2024-09-11 01:46:15,480 - INFO - ETL pipeline completed
+2024-09-11 01:46:15,481 - INFO - Pipeline run completed, connections closed.

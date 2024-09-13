@@ -1,0 +1,12 @@
+2024-09-11 02:07:31,059 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_02-07-31\pipeline.log
+2024-09-11 02:07:31,192 - INFO - Connected to database: b2b_platform_db
+2024-09-11 02:07:31,260 - INFO - Connected to database: dimensional_model_db
+2024-09-11 02:07:31,261 - INFO - ETL pipeline started
+2024-09-11 02:07:31,295 - INFO - Data extracted from source database
+2024-09-11 02:07:31,353 - INFO - Data transformed into dimensional model
+2024-09-11 02:07:31,579 - INFO - Dimension tables loaded and committed successfully.
+2024-09-11 02:07:31,584 - INFO - Fact_Orders table cleared using DELETE.
+2024-09-11 02:07:31,587 - INFO - Fact_Orders table is empty and ready for new data.
+2024-09-11 02:07:31,620 - INFO - Fact table loaded and committed successfully.
+2024-09-11 02:07:31,621 - INFO - ETL pipeline completed
+2024-09-11 02:07:31,622 - INFO - Pipeline run completed, connections closed.

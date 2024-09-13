@@ -1,0 +1,12 @@
+2024-09-11 01:30:53,197 - INFO - Logging initialized. Logs will be saved in: ..\logs\2024-09-11_01-30-53\pipeline.log
+2024-09-11 01:30:53,238 - INFO - Connected to database: b2b_platform_db
+2024-09-11 01:30:53,274 - INFO - Connected to database: dimensional_model_db
+2024-09-11 01:30:53,275 - INFO - ETL pipeline started
+2024-09-11 01:30:53,286 - INFO - Data extracted from source database
+2024-09-11 01:30:53,305 - INFO - Data transformed into dimensional model
+2024-09-11 01:30:53,497 - ERROR - Error loading data: column "campaign_name" of relation "dim_lead" does not exist
+LINE 2:             INSERT INTO Dim_Lead (campaign_name, campaign_st...
+                                          ^
+
+2024-09-11 01:30:53,498 - INFO - ETL pipeline completed
+2024-09-11 01:30:53,499 - INFO - Pipeline run completed, connections closed.
